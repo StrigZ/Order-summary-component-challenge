@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: [https://www.frontendmentor.io/solutions/order-summary-card-solution-using-css3-and-html5-DtdJvvJvb](https://www.frontendmentor.io/solutions/order-summary-card-solution-using-css3-and-html5-DtdJvvJvb)
+- Live Site URL: [https://strigz.github.io/Order-summary-component-challenge/](https://strigz.github.io/Order-summary-component-challenge/)
 
 ## My process
 
